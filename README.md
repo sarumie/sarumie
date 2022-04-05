@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **sarumie/sarumie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+### Hi there 👋
 - 🔭 I’m currently doing internship.
 - 🌱 I’m currently learning NodeJS, Vue, PostgreSQL
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sarumie&hide_border=true&bg_color=0D1117&theme=apprentice)](https://github.com/sarumie/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarumie&layout=compact&hide_border=true&bg_color=0D1117&theme=apprentice)](https://github.com/sarumie/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sarumie&hide_border=true&bg_color=0D1117&theme=apprentice)](https://github.com/sarumie/github-readme-stats)
