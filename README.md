@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning NodeJS, Vue, PostgreSQL
 
 <a href="https://github.com/sarumie/github-readme-stats">
-<img width="440" src="https://github-readme-stats.vercel.app/api?username=sarumie&hide_border=true&bg_color=0D1117&theme=apprentice" /> 
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=sarumie&hide_border=true&bg_color=0D1117&theme=apprentice" /> 
 </img>
 </a>
 <a href="https://github.com/sarumie/github-readme-stats">
-<img width="440" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarumie&layout=compact&hide_border=true&bg_color=0D1117&theme=apprentice" />
+<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarumie&layout=compact&hide_border=true&bg_color=0D1117&theme=apprentice" />
 </a>
 <a href="https://github.com/sarumie/github-readme-stats">
 <img align="center" width="450" src="https://github-readme-stats.vercel.app/api/wakatime?username=sarumie&hide_border=true&bg_color=0D1117&theme=apprentice" />
