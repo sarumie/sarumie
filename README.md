@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently doing internship.
+- 🌱 I’m currently learning NodeJS, Vue, PostgreSQL
