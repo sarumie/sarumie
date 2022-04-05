@@ -24,7 +24,9 @@ Here are some ideas to get you started:
 <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarumie&layout=compact&hide_border=true&bg_color=0D1117&theme=apprentice" />
 </a>
 <p align="center">
-<a href="https://github.com/sarumie/github-readme-stats">
-<img align="center" width="450" src="https://github-readme-stats.vercel.app/api/wakatime?username=sarumie&hide_border=true&bg_color=0D1117&theme=apprentice" />
-</a>
+  <a href="https://github.com/sarumie/github-readme-stats">
+    <img align="center" width="450" src="https://github-readme-stats.vercel.app/api/wakatime?username=sarumie&hide_border=true&bg_color=0D1117&theme=apprentice" />
+  </a>
+<br>
+ <img src="https://discord.c99.nl/widget/theme-1/556695056526868520.png" />
 </p>
