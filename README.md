@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋
+# Hi there <img src="https://raw.githubusercontent.com/sarumie/sarumie/main/wave.gif" width="30px">
 - 🔭 I’m currently doing internship.
 - 🌱 I’m currently learning NodeJS, Vue, PostgreSQL
 
