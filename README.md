@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Hi there <img src="https://raw.githubusercontent.com/sarumie/sarumie/main/wave.gif" width="30px">
 - 🔭 I’m currently doing internship.
-- 🌱 I’m currently learning NodeJS, Vue, PostgreSQL
+- 🌱 I’m currently learning NodeJS, PostgreSQL
 
 <a href="https://github.com/sarumie/github-readme-stats">
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=sarumie&hide_border=true&bg_color=0D1117&theme=apprentice" /> 
