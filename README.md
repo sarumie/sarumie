@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 </a>
 <p align="center">
   <a href="https://github.com/sarumie/github-readme-stats">
-    <img align="center" width="450" src="https://github-readme-stats.vercel.app/api/wakatime?username=sarumie&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact&range=last_7_days" />
+    <img align="center" width="450" src="https://github-readme-stats.vercel.app/api/wakatime?username=sarumie&theme=apprentice&hide_border=true&bg_color=0D1117&hide=html&layout=compact&range=last_7_days" />
   </a>
 <br>
  <img src="https://discord.c99.nl/widget/theme-3/556695056526868520.png" />
