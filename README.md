@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Hewoo :> <img src="https://raw.githubusercontent.com/sarumie/sarumie/main/wave.gif" width="30px">
 - 🔭 I’m currently doing internship.
-- 🌱 I’m currently learning JavaScript, PostgreSQL, Dart, and Flutter.
+- 🌱 I’m currently learning JavaScript, Dart, and Flutter.
 
 <a href="https://github.com/sarumie/github-readme-stats">
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=sarumie&hide_border=true&bg_color=0D1117&theme=apprentice" /> 
