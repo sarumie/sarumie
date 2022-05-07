@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hewoo :> <img src="https://raw.githubusercontent.com/sarumie/sarumie/main/wave.gif" width="30px">
+# <p align="center">Hewoo :> <img src="https://raw.githubusercontent.com/sarumie/sarumie/main/wave.gif" width="30px"></p>
 - 🔭 I’m currently doing internship.
 - 🌱 I’m currently learning JavaScript, Dart, and Flutter.
 
