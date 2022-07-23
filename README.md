@@ -1,6 +1,7 @@
 # <p align="center">Hewoo :> <img src="https://raw.githubusercontent.com/sarumie/sarumie/main/wave.gif" width="30"></p>
-- 🔭 I’m currently doing internship.
-- 🌱 I’m currently learning JavaScript, Dart, and Flutter.
+
+<p align="center">I do web development, video editing, and play rythm game like Osu!</p>
+<p align="center">currently doing internship and learning Typescript</p>
 
 <a href="https://github.com/sarumie/github-readme-stats">
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=sarumie&hide_border=true&bg_color=0D1117&theme=apprentice" /> 
