@@ -1,7 +1,7 @@
 # <p align="center">Hewoo :> <img src="https://raw.githubusercontent.com/sarumie/sarumie/main/wave.gif" width="30"></p>
 
 <p align="center">I do web development, video editing, and play rythm game like Osu!</p>
-<p align="center">currently doing internship and learning Typescript</p>
+<p align="center">currently doing internship and learning Node JS</p>
 
 <p align="center">
 <a href="https://github.com/sarumie/github-readme-stats">
